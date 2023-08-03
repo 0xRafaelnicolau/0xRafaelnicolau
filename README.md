@@ -1,7 +1,5 @@
 ### Hi there 👋
-My name is Rafael, and I am an independent blockchain security researcher.
-
-- Currently, I am actively engaged in competitive audit platforms trying my best to find every vulnerability and grow as researcher.
+My name is Rafael, and I am an independent blockchain security researcher. Currently, I am actively engaged in competitive audit platforms trying my best to find every vulnerability and grow as researcher.
 
 <!--
 **0xRafaelnicolau/0xRafaelnicolau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
