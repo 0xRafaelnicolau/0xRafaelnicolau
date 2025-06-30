@@ -1,11 +1,8 @@
-### Hi, I’m @0xRafaelnicolau!
+## Hi, I’m Rafael
 
 I've co-founded [Coverage](coveragelabs.io), a blockchain service based company specializing in security.
 
-### Contact
+## Contact
 You can find me on:
-
-[Twitter](https://twitter.com/0xrafaelnicolau)
-<br/>
-[LinkedIn](https://www.linkedin.com/in/rafael-nicolau-048b56233/)
-<br/>
+* [Twitter](https://twitter.com/0xrafaelnicolau)
+* [Cantina](https://cantina.xyz/u/0xrafaelnicolau)
