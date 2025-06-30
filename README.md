@@ -1,6 +1,6 @@
 ## Hi, I’m Rafael
 
-I've co-founded [Coverage](coveragelabs.io), a blockchain service based company specializing in security.
+I've co-founded [Coverage](coveragelabs.io), a blockchain security firm focused on smart contract auditing and stateful fuzzing.
 
 ## Contact
 You can find me on:
