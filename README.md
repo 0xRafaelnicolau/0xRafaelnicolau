@@ -1,6 +1,6 @@
 ## Hi, I’m Rafael
 
-I've co-founded [Coverage](https://coveragelabs.io), a blockchain security firm specializing on smart contract auditing and stateful fuzzing.
+I've co-founded [Coverage](https://coveragelabs.io), a blockchain security firm specializing in smart contract auditing and invariant testing.
 
 ## Contact
 You can find me on:
